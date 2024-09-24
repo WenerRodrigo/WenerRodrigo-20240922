@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/wener/Projetos/Teste_rte/Teste_rte.csproj": {}
+    "/home/wener/Projetos/Teste_rte/Rodonaves.csproj": {}
   },
   "projects": {
-    "/home/wener/Projetos/Teste_rte/Teste_rte.csproj": {
+    "/home/wener/Projetos/Teste_rte/Rodonaves.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wener/Projetos/Teste_rte/Teste_rte.csproj",
-        "projectName": "Teste_rte",
-        "projectPath": "/home/wener/Projetos/Teste_rte/Teste_rte.csproj",
+        "projectUniqueName": "/home/wener/Projetos/Teste_rte/Rodonaves.csproj",
+        "projectName": "Rodonaves",
+        "projectPath": "/home/wener/Projetos/Teste_rte/Rodonaves.csproj",
         "packagesPath": "/home/wener/.nuget/packages/",
         "outputPath": "/home/wener/Projetos/Teste_rte/obj/",
         "projectStyle": "PackageReference",

@@ -1,0 +1,6 @@
+@Rodonaves_HostAddress = http://localhost:5075
+
+GET {{Rodonaves_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,6 +1,0 @@
-@Teste_rte_HostAddress = http://localhost:5075
-
-GET {{Teste_rte_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
