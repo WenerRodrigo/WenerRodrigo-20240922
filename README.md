@@ -24,6 +24,7 @@ Este é um projeto de backend que implementa um Sistema de Gestão de Colaborado
 * Deve ser possível realizar os testes das funcionalidades via Postman ou similares.
 
 ## Passos para envio da avaliação
+* Solicite acesso ao repositório.
 * Crie um fork da master para seu repositório com o seguinte nome: usuário do git e data, ex.: devrte-20231201.
 * Envie link do projeto criado para o email: desenvolvedor.rte@gmail.com com o título: [RTE] - Avaliação técnica / Seu Nome
 * **Após a solicitação de acesso, haverá o prazo de uma semana para entrega do projeto**
