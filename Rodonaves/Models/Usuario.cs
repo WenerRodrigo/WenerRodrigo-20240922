@@ -1,4 +1,4 @@
-namespace Rodonaves.Models
+﻿namespace Rodonaves.Models
 {
     public class Usuario
     {
